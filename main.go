@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gomongo/modules"
+	"github.com/Ankitz007/go-sql-analysis.git/modules"
 )
 
 func main() {

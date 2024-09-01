@@ -1,4 +1,4 @@
-module gomongo
+module github.com/Ankitz007/go-sql-analysis.git
 
 go 1.23.0
 

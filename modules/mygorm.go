@@ -2,9 +2,10 @@ package modules
 
 import (
 	"fmt"
-	"gomongo/utils"
 	"sync"
 	"time"
+
+	"github.com/Ankitz007/go-sql-analysis.git/utils"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
