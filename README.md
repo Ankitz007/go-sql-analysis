@@ -6,10 +6,6 @@ In my journey to find the best SQL client for Go, I decided to test out two of t
 
 This project showcases how to use both GORM and SQLx to interact with a SQL database, and highlights their features, ease of use, and other key aspects.
 
-Certainly! Here’s the revised `Usage` section with the requested note:
-
----
-
 ## Usage
 
 1. **Configure Upstream API**:
