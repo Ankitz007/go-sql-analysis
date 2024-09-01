@@ -1,7 +1,3 @@
-Sure, I can help with that! Here’s a GitHub README for your project that compares `gorm` and `sqlx` in Go.
-
----
-
 # SQL Client Comparison: GORM vs SQLx
 
 ## Overview
